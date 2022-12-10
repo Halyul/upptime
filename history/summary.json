@@ -40,17 +40,19 @@
     "url": "$SERVER_CAT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-cat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 649,
-    "timeDay": 655,
-    "timeWeek": 677,
-    "timeMonth": 649,
-    "timeYear": 649,
-    "dailyMinutesDown": {}
+    "time": 620,
+    "timeDay": 406,
+    "timeWeek": 612,
+    "timeMonth": 620,
+    "timeYear": 620,
+    "dailyMinutesDown": {
+      "2022-12-10": 0
+    }
   }
 ]
