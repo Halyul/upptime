@@ -1,7 +1,7 @@
 url: $SERVER_CAT
-status: down
-code: 521
-responseTime: 156
-lastUpdated: 2022-12-10T08:07:59.401Z
+status: up
+code: 200
+responseTime: 783
+lastUpdated: 2022-12-10T18:56:47.303Z
 startTime: Sun Nov 27 2022 20:15:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
