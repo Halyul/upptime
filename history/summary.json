@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-eagle",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 213,
-    "timeDay": 245,
-    "timeWeek": 240,
-    "timeMonth": 213,
-    "timeYear": 213,
-    "dailyMinutesDown": {
-      "2022-12-24": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 211,
+    "timeDay": 271,
+    "timeWeek": 222,
+    "timeMonth": 211,
+    "timeYear": 211,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Server Goose",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 246,
-    "timeDay": 213,
-    "timeWeek": 318,
-    "timeMonth": 246,
-    "timeYear": 246,
+    "time": 241,
+    "timeDay": 100,
+    "timeWeek": 300,
+    "timeMonth": 241,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2022-12-10": 23
     }
@@ -45,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-cat",
     "status": "up",
-    "uptime": "98.31%",
+    "uptime": "98.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "98.31%",
-    "time": 616,
-    "timeDay": 567,
-    "timeWeek": 567,
-    "timeMonth": 616,
-    "timeYear": 616,
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "98.34%",
+    "time": 617,
+    "timeDay": 652,
+    "timeWeek": 556,
+    "timeMonth": 617,
+    "timeYear": 617,
     "dailyMinutesDown": {
       "2022-12-10": 649
     }
