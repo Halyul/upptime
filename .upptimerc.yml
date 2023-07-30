@@ -8,7 +8,7 @@ sites:
   - name: Server Eagle 1
     check: "tcp-ping"
     url: $SERVER_EAGLE_1
-    port: 443
+    port: 80
   - name: Server Goose
     url: $SERVER_GOOSE
   - name: Server Cat
