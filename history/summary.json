@@ -24,19 +24,19 @@
     "url": "$SERVER_EAGLE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-eagle-1",
-    "status": "down",
-    "uptime": "66.48%",
-    "uptimeDay": "66.48%",
-    "uptimeWeek": "66.48%",
-    "uptimeMonth": "66.48%",
-    "uptimeYear": "66.48%",
-    "time": 81,
-    "timeDay": 81,
-    "timeWeek": 81,
-    "timeMonth": 81,
-    "timeYear": 81,
+    "status": "up",
+    "uptime": "52.71%",
+    "uptimeDay": "52.71%",
+    "uptimeWeek": "52.71%",
+    "uptimeMonth": "52.71%",
+    "uptimeYear": "52.71%",
+    "time": 75,
+    "timeDay": 75,
+    "timeWeek": 75,
+    "timeMonth": 75,
+    "timeYear": 75,
     "dailyMinutesDown": {
-      "2023-07-30": 87
+      "2023-07-30": 155
     }
   },
   {
