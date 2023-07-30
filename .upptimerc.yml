@@ -4,15 +4,21 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Server Eagle
+    check: "tcp-ping"
     url: $SERVER_EAGLE
+    port: 80
   - name: Server Eagle 1
     check: "tcp-ping"
     url: $SERVER_EAGLE_1
     port: 80
   - name: Server Goose
+    check: "tcp-ping"
     url: $SERVER_GOOSE
+    port: 80
   - name: Server Cat
+    check: "tcp-ping"
     url: $SERVER_CAT
+    port: 80
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
