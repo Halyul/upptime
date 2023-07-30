@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-eagle-1",
     "status": "up",
-    "uptime": "68.08%",
-    "uptimeDay": "68.08%",
-    "uptimeWeek": "68.08%",
-    "uptimeMonth": "68.08%",
-    "uptimeYear": "68.08%",
+    "uptime": "70.60%",
+    "uptimeDay": "70.60%",
+    "uptimeWeek": "70.60%",
+    "uptimeMonth": "70.60%",
+    "uptimeYear": "70.60%",
     "time": 84,
     "timeDay": 84,
     "timeWeek": 84,
     "timeMonth": 84,
     "timeYear": 84,
     "dailyMinutesDown": {
-      "2023-07-30": 75
+      "2023-07-30": 69
     }
   },
   {
