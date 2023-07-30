@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Server Eagle
     url: $SERVER_EAGLE
-  - name: Server Eagle
+  - name: Server Eagle 1
     url: $SERVER_EAGLE_1
   - name: Server Goose
     url: $SERVER_GOOSE
