@@ -7,10 +7,10 @@ sites:
     check: "tcp-ping"
     url: $SERVER_EAGLE
     port: 80
-  - name: Server Eagle 1
-    check: "tcp-ping"
-    url: $SERVER_EAGLE_1
-    port: 80
+  # - name: Server Eagle 1
+  #   check: "tcp-ping"
+  #   url: $SERVER_EAGLE_1
+  #   port: 80
   - name: Server Goose
     check: "tcp-ping"
     url: $SERVER_GOOSE
