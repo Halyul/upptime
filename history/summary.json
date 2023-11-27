@@ -26,7 +26,7 @@
     "url": "$SERVER_GOOSE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-goose",
-    "status": "up",
+    "status": "down",
     "uptime": "98.59%",
     "uptimeDay": "97.33%",
     "uptimeWeek": "94.69%",
