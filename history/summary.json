@@ -4,7 +4,7 @@
     "url": "$SERVER_EAGLE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-eagle",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 68,
     "timeYear": 181,
     "dailyMinutesDown": {
+      "2023-11-27": 0,
       "2023-09-07": 58,
       "2023-07-30": 163
     }
@@ -27,7 +28,7 @@
     "slug": "server-goose",
     "status": "up",
     "uptime": "98.60%",
-    "uptimeDay": "95.12%",
+    "uptimeDay": "98.47%",
     "uptimeWeek": "95.07%",
     "uptimeMonth": "91.97%",
     "uptimeYear": "98.60%",
