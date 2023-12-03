@@ -10,8 +10,8 @@ sites:
       - 201
       - 404
       - 418
-  - name: Server Eagle 1
-    url: $SERVER_EAGLE_1
+  - name: Server Uncle Sam
+    url: $SERVER_UNCLESAM
     expectedStatusCodes:
       - 200
       - 201
