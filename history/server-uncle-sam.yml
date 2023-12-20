@@ -1,7 +1,7 @@
 url: $SERVER_UNCLESAM
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-20T05:27:42.816Z
+status: up
+code: 418
+responseTime: 407
+lastUpdated: 2023-12-20T05:34:10.085Z
 startTime: 2023-12-03T03:34:17.393Z
 generator: Upptime <https://github.com/upptime/upptime>
