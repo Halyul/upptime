@@ -10,13 +10,6 @@ sites:
       - 201
       - 404
       - 418
-  - name: Server Uncle Sam
-    url: $SERVER_UNCLESAM
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
-      - 418
   - name: Server Goose
     url: $SERVER_GOOSE
     expectedStatusCodes:
