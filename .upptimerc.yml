@@ -9,7 +9,6 @@ sites:
       - 200
       - 201
       - 404
-      - 418
   - name: Server Goose
     url: $SERVER_GOOSE
     expectedStatusCodes:
