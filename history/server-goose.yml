@@ -1,7 +1,7 @@
 url: $SERVER_GOOSE
-status: up
-code: 418
-responseTime: 546
-lastUpdated: 2024-01-26T23:13:14.419Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-01-27T13:49:17.503Z
 startTime: 2022-11-27T20:15:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
