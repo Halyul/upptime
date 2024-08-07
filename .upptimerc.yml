@@ -15,12 +15,6 @@ sites:
       - 200
       - 201
       - 404
-  - name: Server Panda
-    url: $SERVER_PANDA
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
   - name: Server Goose
     url: $SERVER_GOOSE
     expectedStatusCodes:
