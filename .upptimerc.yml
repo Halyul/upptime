@@ -15,6 +15,12 @@ sites:
       - 200
       - 201
       - 404
+  - name: Server Panda
+    url: $SERVER_PANDA
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Server Goose
     url: $SERVER_GOOSE
     expectedStatusCodes:
@@ -22,12 +28,6 @@ sites:
       - 201
       - 404
       - 418
-  - name: Server Panda
-    url: $SERVER_PANDA
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
