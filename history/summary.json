@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 395,
-    "timeDay": 433,
-    "timeWeek": 445,
-    "timeMonth": 408,
+    "timeDay": 404,
+    "timeWeek": 436,
+    "timeMonth": 407,
     "timeYear": 393,
     "dailyMinutesDown": {
       "2025-02-23": 81,
@@ -47,6 +47,27 @@
       "2024-08-18": 345,
       "2024-08-11": 177,
       "2024-08-10": 511
+    }
+  },
+  {
+    "name": "Server Panda",
+    "url": "$SERVER_PANDA",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "server-panda",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 186,
+    "timeDay": 205,
+    "timeWeek": 205,
+    "timeMonth": 205,
+    "timeYear": 186,
+    "dailyMinutesDown": {
+      "2025-04-14": 0,
+      "2024-08-07": 16
     }
   }
 ]
