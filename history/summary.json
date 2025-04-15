@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 395,
-    "timeDay": 380,
-    "timeWeek": 422,
-    "timeMonth": 416,
+    "time": 394,
+    "timeDay": 406,
+    "timeWeek": 425,
+    "timeMonth": 417,
     "timeYear": 393,
     "dailyMinutesDown": {
       "2025-02-23": 81,
@@ -34,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
-    "time": 225,
+    "time": 224,
     "timeDay": 263,
     "timeWeek": 264,
     "timeMonth": 235,
-    "timeYear": 225,
+    "timeYear": 224,
     "dailyMinutesDown": {
       "2025-02-23": 80,
       "2024-12-14": 175,
@@ -47,27 +47,6 @@
       "2024-08-18": 345,
       "2024-08-11": 177,
       "2024-08-10": 511
-    }
-  },
-  {
-    "name": "Server Panda",
-    "url": "$SERVER_PANDA",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "server-panda",
-    "status": "up",
-    "uptime": "88.98%",
-    "uptimeDay": "92.17%",
-    "uptimeWeek": "92.17%",
-    "uptimeMonth": "92.17%",
-    "uptimeYear": "88.98%",
-    "time": 306,
-    "timeDay": 392,
-    "timeWeek": 392,
-    "timeMonth": 392,
-    "timeYear": 306,
-    "dailyMinutesDown": {
-      "2025-04-14": 38,
-      "2024-08-07": 16
     }
   }
 ]
