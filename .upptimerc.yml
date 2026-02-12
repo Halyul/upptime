@@ -9,8 +9,8 @@ sites:
       - 200
       - 201
       - 404
-  - name: Server Pigeon
-    url: $SERVER_PIGEON
+  - name: Server Lion
+    url: $SERVER_LION
     expectedStatusCodes:
       - 200
       - 201
