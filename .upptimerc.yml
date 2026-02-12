@@ -9,18 +9,21 @@ sites:
       - 200
       - 201
       - 404
+      - 418
   - name: Server Eagle
     url: $SERVER_EAGLE
     expectedStatusCodes:
       - 200
       - 201
       - 404
+      - 418
   - name: Server Penguin
     url: $SERVER_PENGUIN
     expectedStatusCodes:
       - 200
       - 201
       - 404
+      - 418
   # - name: Server Panda
   #   url: $SERVER_PANDA
   #   expectedStatusCodes:
