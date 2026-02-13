@@ -15,6 +15,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
+      - 403
       - 404
       - 418
   - name: Server Penguin
