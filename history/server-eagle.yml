@@ -1,7 +1,7 @@
 url: $SERVER_EAGLE
-status: down
-code: 522
-responseTime: 39197
-lastUpdated: 2026-09-07T00:44:34.885Z
+status: up
+code: 418
+responseTime: 89
+lastUpdated: 2026-09-07T10:29:42.834Z
 startTime: 2022-11-27T20:15:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
